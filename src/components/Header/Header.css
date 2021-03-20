@@ -1,0 +1,8 @@
+.nav{
+    margin-top:5px;
+    margin-left: 200px;
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+}
